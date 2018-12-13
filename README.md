@@ -1,2 +1,2 @@
-"# Vim-for-myself" 
-# Vim-for-myself
+自用
+vim的一些配置环境以及插件
