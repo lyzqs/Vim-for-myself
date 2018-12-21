@@ -1,2 +1,1 @@
-"# Vim-for-myself" 
-# Vim-for-myself
+# 自用
